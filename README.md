@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🚀 My skills: Python, SQL, Modeling,Statistics, PowerBI
 - 📫 How to reach me: Holayuqing@gmail.com
 - 😄 Pronouns: 人生海海，山山而川
-- 😊 If you are recruiter, please kindly check my repro **PROJECTS** 
+- 😊 If you are recruiter, please kindly check my repo **PROJECTS** 
