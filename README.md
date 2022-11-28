@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML/NLP
 - 🤔 I am interested in Data Science!
 - 💬 Ask me about my projects.
-- 🚀 My skills: Pyhton, SQL, Modeling,Statistics, PowerBI
+- 🚀 My skills: Python, SQL, Modeling,Statistics, PowerBI
 - 📫 How to reach me: Holayuqing@gmail.com
 - 😄 Pronouns: 人生海海，山山而川
 - 😊 If you are recruiter, please kindly check my repro **PROJECTS** 
