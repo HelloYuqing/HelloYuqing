@@ -2,15 +2,17 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Yuqing)
 
-**HelloYuqing/HelloYuqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👧I am Yuqing from China.
+- 🏫Warsaw School of Economics| Big Data 2020-2022 | GPA:4.42/5.0 
+- 📚Master Thesis: Research on Sentiment Time Series for Anomaly Detection
+
+- 🔭 I’m currently working on Capgemini Poland as Data Analyst :)
+- 🌱 I’m currently learning ML/NLP
+- 🤔 I am interested in Data Science!
+- 💬 Ask me about my projects.
+- 📫 How to reach me: Holayuqing@gmail.com
+- 😄 Pronouns: 人生海海，山山而川
+- ⚡ Fun fact: history,game
+- 😊 If you are recruiter, please kindly check my repro **PROJECTS** 
