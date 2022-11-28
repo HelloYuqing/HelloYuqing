@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects.
 - 📫 How to reach me: Holayuqing@gmail.com
 - 😄 Pronouns: 人生海海，山山而川
-- ⚡ Fun fact: history,game
 - 😊 If you are recruiter, please kindly check my repro **PROJECTS** 
