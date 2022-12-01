@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 👧I am Yuqing from China.
-- 🏫Warsaw School of Economics| Big Data 2020-2022 | GPA:4.42/5.0 
+- 🏫Warsaw School of Economics| Big Data 2020-2022
 - 📚Master Thesis: Research on Sentiment Time Series for Anomaly Detection
 
 - 🔭 I’m currently working on Capgemini Poland as Data Analyst :)
