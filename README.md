@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Yuqing)
-
 Here are some ideas to get you started:
 
 - 👧I am Yuqing from China.
